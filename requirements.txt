@@ -1,2 +1,5 @@
 ﻿google-api-python-client
+
 pandas
+
+packaging
